@@ -1,5 +1,8 @@
 # 💫 About Me:
-I currently working in epam systems<br>I'm good in java, data structures and algorithms, PYTHON, SQL.<br>Completed the hands on training in AWS CLOUD <br>Top 50 in Smart India Hackathon, Built womens safety webapp<br>Working on projects in big data, sql , python
+unior Software Engineer Intern at EPAM Systems, passionate about building scalable and impactful software.<br>
+Strong in Java, DSA, OOP, SQL, Python, with hands-on exposure to AWS Cloud.<br>
+NPTEL STAR (IIT Kanpur) | Smart India Hackathon – Top 50 (Women Safety App).<br>
+Top 10 – Nagarro Crack-a-Code 3.0 | AWS Cloud Practitioner, SQL & DSA Certified.
 
 
 ## 🌐 Socials:
