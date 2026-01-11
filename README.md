@@ -1,5 +1,5 @@
 # 💫 About Me:
-unior Software Engineer Intern at EPAM Systems, passionate about building scalable and impactful software.<br>
+Junior Software Engineer Intern at EPAM Systems, passionate about building scalable and impactful software.<br>
 Strong in Java, DSA, OOP, SQL, Python, with hands-on exposure to AWS Cloud.<br>
 NPTEL STAR (IIT Kanpur) | Smart India Hackathon – Top 50 (Women Safety App).<br>
 Top 10 – Nagarro Crack-a-Code 3.0 | AWS Cloud Practitioner, SQL & DSA Certified.
